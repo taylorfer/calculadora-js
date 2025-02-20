@@ -33,3 +33,11 @@
 "No futuro, planejo adicionar mais funcionalidades, como operações com números decimais e um histórico de cálculos."
 
 "Também gostaria de explorar o uso do TypeScript para melhorar a tipagem e a segurança do código."
+
+
+## Acesso ao Projeto
+
+Você pode acessar o projeto online através do seguinte link:
+
+[Calculadora JS](https://taylorfer.github.io/calculadora-js/)
+
